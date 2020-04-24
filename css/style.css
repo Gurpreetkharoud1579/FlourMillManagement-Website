@@ -1,0 +1,29 @@
+*{margin: 0;padding: 0;box-sizing: border-box;
+font-family: 'Josefin Sans', sans-serif;}
+
+.option-style{
+  
+}
+
+  
+
+  .aboutimage {
+  	width: 100%;
+    height: 350px!important;
+  
+  }
+ .jumbotron {
+  background-image: url("../images/jumbo.jpg") ;
+background-attachment: fixed;
+  width:100%;
+  height: 350px!important;
+  color : white;
+  background-size: 100% 100%;
+}
+.navbar-custom {
+    background-color: #000000;
+}
+
+
+
+ 
